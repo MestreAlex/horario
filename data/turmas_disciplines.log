@@ -1,0 +1,258 @@
+2024-12-18 22:48:44,125 - INFO - Colunas do DataFrame de professores: ['nome', 'disciplina', 'turma', 'd_seg', 'd_ter', 'd_qua', 'd_qui', 'd_sex']
+2024-12-18 22:48:44,126 - INFO - Colunas do DataFrame de disciplinas: ['disciplina', 'turma', 'carga_horaria', 'r_seg', 'r_ter', 'r_qua', 'r_qui', 'r_sex']
+2024-12-18 22:48:44,126 - INFO - Colunas do DataFrame de turmas: ['turma', 'turno', 'aulas_por_dia']
+2024-12-18 22:48:44,325 - INFO - Turmas ordenadas por número de aulas:
+2024-12-18 22:48:44,330 - INFO -       turma  total_aulas  num_disciplinas  num_professores
+1i01 EM-HUM           35               17               17
+1i01 EM-IPI           35               16               16
+1i02 EM-HUM           35               17               17
+1i03 EM-HUM           35               17               17
+2i01 EM-ADM           35               17               17
+2i01 EM-HUM           35               17               17
+2i01 EM-IPI           35               17               17
+2i02 EM-IPI           35               17               17
+3i01 EM-ADM           35               17               17
+3i01 EM-HUM           35               17               17
+3i01 EM-IPI           35               16               16
+3i02 EM-ADM           35               17               17
+2024-12-18 22:48:44,332 - INFO - 
+Detalhes das 10 primeiras turmas:
+2024-12-18 22:48:44,333 - INFO - 
+Turma: 1i01 EM-HUM
+2024-12-18 22:48:44,333 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,334 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,334 - INFO - Número de professores: 17
+2024-12-18 22:48:44,334 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,339 - INFO -       turma                             disciplina  carga_horaria  num_professores professores
+1i01 EM-HUM                                   ARTE              2                1     Luzimar
+1i01 EM-HUM                        EDUCACAO FISICA              2                1       Layla
+1i01 EM-HUM                                ELETIVA              2                1       Todos
+1i01 EM-HUM                       ESTUDO ORIENTADO              2                1     Derlane
+1i01 EM-HUM                              FILOSOFIA              2                1      Sergio
+1i01 EM-HUM                                 FISICA              2                1      Islani
+1i01 EM-HUM                         LiNGUA INGLESA              2                1   Ana Paula
+1i01 EM-HUM                      LINGUA PORTUGUESA              5                1       Celia
+1i01 EM-HUM                             MATEMATICA              5                1     Thaylon
+1i01 EM-HUM              PRATICAS EXPERIMENTAIS CN              1                1      Fagner
+1i01 EM-HUM                        PROJETO DE VIDA              2                1   Ana Paula
+1i01 EM-HUM PROJETOS INTEGRADORES - C. DA NATUREZA              1                1      Fagner
+1i01 EM-HUM     PROJETOS INTEGRADORES - C. HUMANAS              1                1     Maianni
+1i01 EM-HUM     PROJETOS INTEGRADORES - LINGUAGENS              1                1     Luzimar
+1i01 EM-HUM     PROJETOS INTEGRADORES - MATEMATICA              1                1      Fagner
+1i01 EM-HUM                                QUIMICA              2                1      Fagner
+1i01 EM-HUM                             SOCIOLOGIA              2                1     Maianni
+2024-12-18 22:48:44,340 - INFO - 
+Turma: 1i01 EM-IPI
+2024-12-18 22:48:44,341 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,341 - INFO - Número de disciplinas: 16
+2024-12-18 22:48:44,341 - INFO - Número de professores: 16
+2024-12-18 22:48:44,342 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,345 - INFO -       turma                       disciplina  carga_horaria  num_professores professores
+1i01 EM-IPI ALGORITMO E LOGICA DE PROGRAMCAO              3                1       Vania
+1i01 EM-IPI                             ARTE              2                1     Luzimar
+1i01 EM-IPI                  EDUCACAO FISICA              2                1       Layla
+1i01 EM-IPI                          ELETIVA              2                1       Todos
+1i01 EM-IPI                 ESTUDO ORIENTADO              1                1       Layla
+1i01 EM-IPI                        FILOSOFIA              2                1      Sergio
+1i01 EM-IPI                           FISICA              2                1      Islani
+1i01 EM-IPI        HIGIENE SAUDE E SEGURANCA              1                1       Savio
+1i01 EM-IPI                   LiNGUA INGLESA              2                1   Ana Paula
+1i01 EM-IPI                LINGUA PORTUGUESA              5                1     Derlane
+1i01 EM-IPI                       MATEMATICA              5                1     Thaylon
+1i01 EM-IPI        PRATICAS EXPERIMENTAIS CN              1                1      Islani
+1i01 EM-IPI                  PROJETO DE VIDA              1                1   Ana Paula
+1i01 EM-IPI                          QUIMICA              2                1      Fagner
+1i01 EM-IPI            SISTEMAS OPERACIONAIS              2                1     Messias
+1i01 EM-IPI                       SOCIOLOGIA              2                1     Maianni
+2024-12-18 22:48:44,346 - INFO - 
+Turma: 1i02 EM-HUM
+2024-12-18 22:48:44,347 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,347 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,347 - INFO - Número de professores: 17
+2024-12-18 22:48:44,348 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,350 - INFO -       turma                             disciplina  carga_horaria  num_professores professores
+1i02 EM-HUM                                   ARTE              2                1     Luzimar
+1i02 EM-HUM                        EDUCACAO FISICA              2                1       Layla
+1i02 EM-HUM                                ELETIVA              2                1       Todos
+1i02 EM-HUM                       ESTUDO ORIENTADO              2                1   Ana Paula
+1i02 EM-HUM                              FILOSOFIA              2                1      Sergio
+1i02 EM-HUM                                 FISICA              2                1      Islani
+1i02 EM-HUM                         LiNGUA INGLESA              2                1   Ana Paula
+1i02 EM-HUM                      LINGUA PORTUGUESA              5                1       Celia
+1i02 EM-HUM                             MATEMATICA              5                1     Thaylon
+1i02 EM-HUM              PRATICAS EXPERIMENTAIS CN              1                1      Islani
+1i02 EM-HUM                        PROJETO DE VIDA              2                1   Ana Paula
+1i02 EM-HUM PROJETOS INTEGRADORES - C. DA NATUREZA              1                1      Fagner
+1i02 EM-HUM     PROJETOS INTEGRADORES - C. HUMANAS              1                1     Maianni
+1i02 EM-HUM     PROJETOS INTEGRADORES - LINGUAGENS              1                1     Luzimar
+1i02 EM-HUM     PROJETOS INTEGRADORES - MATEMATICA              1                1      Fagner
+1i02 EM-HUM                                QUIMICA              2                1      Fagner
+1i02 EM-HUM                             SOCIOLOGIA              2                1     Maianni
+2024-12-18 22:48:44,352 - INFO - 
+Turma: 1i03 EM-HUM
+2024-12-18 22:48:44,352 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,353 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,353 - INFO - Número de professores: 17
+2024-12-18 22:48:44,353 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,358 - INFO -       turma                             disciplina  carga_horaria  num_professores professores
+1i03 EM-HUM                                   ARTE              2                1     Luzimar
+1i03 EM-HUM                        EDUCACAO FISICA              2                1       Layla
+1i03 EM-HUM                                ELETIVA              2                1       Todos
+1i03 EM-HUM                       ESTUDO ORIENTADO              2                1       Qesia
+1i03 EM-HUM                              FILOSOFIA              2                1      Sergio
+1i03 EM-HUM                                 FISICA              2                1      Islani
+1i03 EM-HUM                         LiNGUA INGLESA              2                1   Ana Paula
+1i03 EM-HUM                      LINGUA PORTUGUESA              5                1       Celia
+1i03 EM-HUM                             MATEMATICA              5                1     Thaylon
+1i03 EM-HUM              PRATICAS EXPERIMENTAIS CN              1                1      Fagner
+1i03 EM-HUM                        PROJETO DE VIDA              2                1   Ana Paula
+1i03 EM-HUM PROJETOS INTEGRADORES - C. DA NATUREZA              1                1      Fagner
+1i03 EM-HUM     PROJETOS INTEGRADORES - C. HUMANAS              1                1     Maianni
+1i03 EM-HUM     PROJETOS INTEGRADORES - LINGUAGENS              1                1     Luzimar
+1i03 EM-HUM     PROJETOS INTEGRADORES - MATEMATICA              1                1      Fagner
+1i03 EM-HUM                                QUIMICA              2                1      Fagner
+1i03 EM-HUM                             SOCIOLOGIA              2                1     Maianni
+2024-12-18 22:48:44,360 - INFO - 
+Turma: 2i01 EM-ADM
+2024-12-18 22:48:44,361 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,361 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,361 - INFO - Número de professores: 17
+2024-12-18 22:48:44,361 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,365 - INFO -       turma                disciplina  carga_horaria  num_professores professores
+2i01 EM-ADM                  BIOLOGIA              2                1       Katia
+2i01 EM-ADM            COOPERATIVISMO              2                1      Marcos
+2i01 EM-ADM           CULTURA DIGITAL              2                1       Pedro
+2i01 EM-ADM                  ECONOMIA              2                1    Miqueias
+2i01 EM-ADM                   ELETIVA              2                1       Todos
+2i01 EM-ADM          ESTUDO ORIENTADO              1                1       Layla
+2i01 EM-ADM                    FISICA              2                1      Islani
+2i01 EM-ADM                 GEOGRAFIA              2                1       Qesia
+2i01 EM-ADM                  HISTORIA              2                1       Nilza
+2i01 EM-ADM         LINGUA PORTUGUESA              4                1     Derlane
+2i01 EM-ADM                 LOGISTICA              2                1       Savio
+2i01 EM-ADM  MARKETING ORGANIZACIONAL              2                1       Pedro
+2i01 EM-ADM                MATEMATICA              4                1     Thaylon
+2i01 EM-ADM PRATICAS EXPERIMENTAIS CN              1                1      Fagner
+2i01 EM-ADM           PROJETO DE VIDA              1                1   Ana Paula
+2i01 EM-ADM                   QUIMICA              2                1      Isaias
+2i01 EM-ADM   ROTINAS ADMINISTRATIVAS              2                1    Miqueias
+2024-12-18 22:48:44,367 - INFO - 
+Turma: 2i01 EM-HUM
+2024-12-18 22:48:44,367 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,367 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,368 - INFO - Número de professores: 17
+2024-12-18 22:48:44,368 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,371 - INFO -       turma                                            disciplina  carga_horaria  num_professores professores
+2i01 EM-HUM A ESPECIE HUMANA E A RELACAO COM OS RECURSOS NATURAIS              3                1       Katia
+2i01 EM-HUM                                              BIOLOGIA              2                1       Katia
+2i01 EM-HUM                                               ELETIVA              2                1       Todos
+2i01 EM-HUM                                                FISICA              2                1      Islani
+2i01 EM-HUM                                             GEOGRAFIA              2                1       Qesia
+2i01 EM-HUM                                              HISTORIA              2                1       Nilza
+2i01 EM-HUM                                     LINGUA PORTUGUESA              4                1     Derlane
+2i01 EM-HUM                                            MATEMATICA              4                1        Alex
+2i01 EM-HUM           PERCURSO FILOSOFICO SOBRE A ESPECIE HUMANA               3                1       Qesia
+2i01 EM-HUM                             PRATICAS EXPERIMENTAIS CN              1                1      Islani
+2i01 EM-HUM                                       PROJETO DE VIDA              1                1   Ana Paula
+2i01 EM-HUM                PROJETOS INTEGRADORES - C. DA NATUREZA              1                1      Fagner
+2i01 EM-HUM                    PROJETOS INTEGRADORES - C. HUMANAS              1                1     Maianni
+2i01 EM-HUM                    PROJETOS INTEGRADORES - LINGUAGENS              1                1     Luzimar
+2i01 EM-HUM                    PROJETOS INTEGRADORES - MATEMATICA              1                1      Fagner
+2i01 EM-HUM                                               QUIMICA              2                1      Isaias
+2i01 EM-HUM                       TRAJETORIAS HUMANAS NA HISTORIA              3                1       Nilza
+2024-12-18 22:48:44,374 - INFO - 
+Turma: 2i01 EM-IPI
+2024-12-18 22:48:44,374 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,375 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,376 - INFO - Número de professores: 17
+2024-12-18 22:48:44,376 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,381 - INFO -       turma                                     disciplina  carga_horaria  num_professores professores
+2i01 EM-IPI                                APLICATIVOS WEB              2                1       Pedro
+2i01 EM-IPI                                 BANCO DE DADOS              2                1       Vania
+2i01 EM-IPI                                       BIOLOGIA              2                1       Katia
+2i01 EM-IPI                                CULTURA DIGITAL              2                1       Pedro
+2i01 EM-IPI                                        ELETIVA              2                1       Todos
+2i01 EM-IPI                               ESTUDO ORIENTADO              1                1       Layla
+2i01 EM-IPI                                         FISICA              2                1      Islani
+2i01 EM-IPI                                      GEOGRAFIA              2                1       Qesia
+2i01 EM-IPI                                       HISTORIA              2                1       Nilza
+2i01 EM-IPI INTRODUCAO A REDE DE COMPUTADORES E PROTOCOLOS              2                1    Devilson
+2i01 EM-IPI                       IOT - INTERNET OF THINGS              2                1       Pedro
+2i01 EM-IPI                              LINGUA PORTUGUESA              4                1     Derlane
+2i01 EM-IPI        LINGUAGEM DE PROGRAMACAO APLICADA A WEB              2                1     Messias
+2i01 EM-IPI                                     MATEMATICA              4                1        Alex
+2i01 EM-IPI                      PRATICAS EXPERIMENTAIS CN              1                1      Islani
+2i01 EM-IPI                                PROJETO DE VIDA              1                1   Ana Paula
+2i01 EM-IPI                                        QUIMICA              2                1      Isaias
+2024-12-18 22:48:44,383 - INFO - 
+Turma: 2i02 EM-IPI
+2024-12-18 22:48:44,383 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,385 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,385 - INFO - Número de professores: 17
+2024-12-18 22:48:44,386 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,392 - INFO -       turma                                     disciplina  carga_horaria  num_professores professores
+2i02 EM-IPI                                APLICATIVOS WEB              2                1       Pedro
+2i02 EM-IPI                                 BANCO DE DADOS              2                1       Vania
+2i02 EM-IPI                                       BIOLOGIA              2                1       Katia
+2i02 EM-IPI                                CULTURA DIGITAL              2                1       Pedro
+2i02 EM-IPI                                        ELETIVA              2                1       Todos
+2i02 EM-IPI                               ESTUDO ORIENTADO              1                1       Layla
+2i02 EM-IPI                                         FISICA              2                1      Islani
+2i02 EM-IPI                                      GEOGRAFIA              2                1       Qesia
+2i02 EM-IPI                                       HISTORIA              2                1       Nilza
+2i02 EM-IPI INTRODUCAO A REDE DE COMPUTADORES E PROTOCOLOS              2                1    Devilson
+2i02 EM-IPI                       IOT - INTERNET OF THINGS              2                1       Pedro
+2i02 EM-IPI                              LINGUA PORTUGUESA              4                1     Derlane
+2i02 EM-IPI        LINGUAGEM DE PROGRAMACAO APLICADA A WEB              2                1     Messias
+2i02 EM-IPI                                     MATEMATICA              4                1        Alex
+2i02 EM-IPI                      PRATICAS EXPERIMENTAIS CN              1                1      Islani
+2i02 EM-IPI                                PROJETO DE VIDA              1                1   Ana Paula
+2i02 EM-IPI                                        QUIMICA              2                1      Isaias
+2024-12-18 22:48:44,395 - INFO - 
+Turma: 3i01 EM-ADM
+2024-12-18 22:48:44,395 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,400 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,400 - INFO - Número de professores: 17
+2024-12-18 22:48:44,401 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,402 - INFO -       turma                       disciplina  carga_horaria  num_professores professores
+3i01 EM-ADM         ADMINISTRACAO FINANCEIRA              2                1    Miqueias
+3i01 EM-ADM                         BIOLOGIA              2                1       Katia
+3i01 EM-ADM           COMUNICACAO E BRANDING              3                1       Pedro
+3i01 EM-ADM DIREITO EMPRESARIAL E TRIBUTARIO              2                1    Weverton
+3i01 EM-ADM                       E-COMMERCE              2                1        Huly
+3i01 EM-ADM                          ELETIVA              2                1       Todos
+3i01 EM-ADM                 ESTUDO ORIENTADO              1                1       Layla
+3i01 EM-ADM                        GEOGRAFIA              2                1       Qesia
+3i01 EM-ADM  GESTAO DE PRODUCAO E QUAL.IDADE              2                1      Renata
+3i01 EM-ADM                   GESTAO PUBLICA              2                1    Miqueias
+3i01 EM-ADM                         HISTORIA              2                1       Nilza
+3i01 EM-ADM                LINGUA PORTUGUESA              3                1     Daianny
+3i01 EM-ADM                       MATEMATICA              3                1        Alex
+3i01 EM-ADM     PLANEJAMENTO E INVESTIMENTOS              2                1      Renata
+3i01 EM-ADM        PRATICAS EXPERIMENTAIS CN              1                1      Islani
+3i01 EM-ADM                  PROJETO DE VIDA              2                1       Layla
+3i01 EM-ADM          PROJETOS EMPREENDEDORES              2                1      Maikon
+2024-12-18 22:48:44,404 - INFO - 
+Turma: 3i01 EM-HUM
+2024-12-18 22:48:44,404 - INFO - Total de aulas: 35
+2024-12-18 22:48:44,405 - INFO - Número de disciplinas: 17
+2024-12-18 22:48:44,405 - INFO - Número de professores: 17
+2024-12-18 22:48:44,406 - INFO - Detalhamento de aulas:
+2024-12-18 22:48:44,411 - INFO -       turma                                            disciplina  carga_horaria  num_professores professores
+3i01 EM-HUM A ESPECIE HUMANA E A RELACAO COM OS RECURSOS NATURAIS              3                1       Katia
+3i01 EM-HUM                                              BIOLOGIA              2                1       Katia
+3i01 EM-HUM                                               ELETIVA              2                1       Todos
+3i01 EM-HUM                                             GEOGRAFIA              2                1       Qesia
+3i01 EM-HUM                                              HISTORIA              2                1       Nilza
+3i01 EM-HUM                        INDIVIDUO NATUREZA E SOCIEDADE              3                1     Maianni
+3i01 EM-HUM                                     LINGUA PORTUGUESA              3                1     Daianny
+3i01 EM-HUM                                            MATEMATICA              3                1        Alex
+3i01 EM-HUM           PERCURSO FILOSOFICO SOBRE A ESPECIE HUMANA               3                1       Qesia
+3i01 EM-HUM      PERSPECTIVA GEOGRAFICA: DESENVOLVIMENTO E ESPACO              3                1       Qesia
+3i01 EM-HUM                                       PROJETO DE VIDA              1                1       Layla
+3i01 EM-HUM                PROJETOS INTEGRADORES - C. DA NATUREZA              1                1      Fagner
+3i01 EM-HUM                    PROJETOS INTEGRADORES - C. HUMANAS              1                1     Maianni
+3i01 EM-HUM                    PROJETOS INTEGRADORES - LINGUAGENS              1                1     Luzimar
+3i01 EM-HUM                    PROJETOS INTEGRADORES - MATEMATICA              1                1      Fagner
+3i01 EM-HUM                                               REDACAO              1                1     Derlane
+3i01 EM-HUM                       TRAJETORIAS HUMANAS NA HISTORIA              3                1       Nilza

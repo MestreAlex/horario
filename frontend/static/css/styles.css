@@ -1,0 +1,110 @@
+.horario-table .professor {
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.5);
+}
+
+.horario-professor-table {
+    text-align: center;
+    width: 100%;
+}
+
+.horario-professor-table .aula-professor {
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.horario-professor-table .turma {
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #333;
+}
+
+.horario-professor-table .disciplina {
+    font-size: 0.8em;
+    color: #666;
+}
+
+.horario-professor-table hr {
+    margin: 5px 0;
+    border-top: 1px solid #ddd;
+}
+
+.tabela-professor {
+    margin-bottom: 30px;
+}
+
+.tabela-professor.card {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.tabela-professor.card:hover {
+    transform: scale(1.02);
+}
+
+.horario-professor-table .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+}
+
+@media (max-width: 768px) {
+    .tabela-professor.card {
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 768px) {
+    .tabela-professor.card {
+        height: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .professores-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .professores-container .col-professor {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 10px;
+    }
+}
+
+.horario-professor-table .turma {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100px;
+}
+
+.horario-professor-table .multiplas-aulas {
+    background-color: #fff3cd;  /* Amarelo claro */
+    border: 1px solid #ffeeba;  /* Borda amarela mais escura */
+}
+
+.progress-bar {
+    transition: width 0.5s ease-in-out, background-color 0.5s ease-in-out;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.progress-bar.progress-low {
+    background-color: #dc3545; /* Vermelho */
+}
+
+.progress-bar.progress-medium {
+    background-color: #ffc107; /* Amarelo */
+    color: black;
+}
+
+.progress-bar.progress-high {
+    background-color: #28a745; /* Verde */
+} 

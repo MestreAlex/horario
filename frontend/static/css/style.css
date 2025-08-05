@@ -1,0 +1,204 @@
+.horario-table {
+    width: 100%;
+    margin-bottom: 2rem;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.horario-table th,
+.horario-table td {
+    border: 1px solid #dee2e6;
+    padding: 12px 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.horario-table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+.horario-table td.horario {
+    background-color: #f8f9fa;
+    font-weight: 500;
+    width: 100px;
+}
+
+.aula-info {
+    padding: 4px;
+    min-height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.aula-info .disciplina {
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 4px;
+}
+
+.aula-info .professor {
+    color: #666;
+    font-size: 0.85em;
+}
+
+.progress {
+    height: 25px;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+}
+
+.progress-bar {
+    background-color: #007bff;
+    transition: width 0.3s ease;
+}
+
+.alert {
+    margin: 20px 0;
+    padding: 12px 20px;
+    border-radius: 4px;
+}
+
+#btnGerar {
+    min-width: 150px;
+}
+
+#btnGerar:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+    .horario-table {
+        font-size: 0.9em;
+    }
+    
+    .horario-table td,
+    .horario-table th {
+        padding: 8px 4px;
+    }
+    
+    .aula-info {
+        min-height: 40px;
+    }
+}
+
+.tabelas-dias .tabela-dia {
+    margin-bottom: 30px;
+}
+
+.tabelas-dias .horario-table {
+    width: 100%;
+}
+
+.tabelas-dias .horario-table th,
+.tabelas-dias .horario-table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.tabelas-dias .aula-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tabelas-dias .aula-info .disciplina {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.tabelas-dias .aula-info .professor {
+    font-size: 0.8em;
+    color: #666;
+}
+
+/* Estilos para métricas ML */
+.metric-item {
+    text-align: center;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.metric-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.metric-item h6 {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.metric-item .h4 {
+    color: #007bff;
+    font-weight: bold;
+    margin: 0;
+}
+
+#chartEvolucao {
+    min-height: 200px;
+}
+
+#btnTreinarML {
+    transition: all 0.3s ease;
+}
+
+#btnTreinarML:disabled {
+    background-color: #ccc;
+    border-color: #ccc;
+    cursor: not-allowed;
+}
+
+.sugestoes-ml {
+    margin-top: 20px;
+    padding: 15px;
+    border-left: 4px solid #17a2b8;
+    background-color: #f8f9fa;
+}
+
+.sugestoes-ml h4 {
+    color: #17a2b8;
+    margin-bottom: 15px;
+}
+
+.sugestoes-ml ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.sugestoes-ml li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.sugestoes-ml li:last-child {
+    border-bottom: none;
+}
+
+/* Animações para métricas */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.metric-item {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+.metric-item:nth-child(1) { animation-delay: 0.1s; }
+.metric-item:nth-child(2) { animation-delay: 0.2s; }
+.metric-item:nth-child(3) { animation-delay: 0.3s; }

@@ -1,0 +1,23 @@
+turma,turno,aulas_por_dia
+1i01 EM-HUM,Intermediario,7
+1i02 EM-HUM,Intermediario,7
+1i03 EM-HUM,Intermediario,7
+1i01 EM-IPI,Intermediario,7
+2i01 EM-HUM,Intermediario,7
+2i01 EM-IPI,Intermediario,7
+2i02 EM-IPI,Intermediario,7
+2i01 EM-ADM,Intermediario,7
+3i01 EM-ADM,Intermediario,7
+3i02 EM-ADM,Intermediario,7
+3i01 EM-HUM,Intermediario,7
+3i01 EM-IPI,Intermediario,7
+1v01 EM-HUM,Vespertino,6
+1v02 EM-HUM,Vespertino,6
+1v01 EM-IPI,Vespertino,6
+2v01 EM-HUM,Vespertino,6
+2v02 EM-HUM,Vespertino,6
+3v01 EM-HUM,Vespertino,6
+ETAPA 1n01,Noturno,3
+ETAPA 2n01,Noturno,3
+ETAPA 3n01,Noturno,3
+

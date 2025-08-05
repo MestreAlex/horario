@@ -1,0 +1,203 @@
+nome,disciplina,turma,turno,carga_horaria,aulas_por_dia,d_seg,d_ter,d_qua,d_qui,d_sex,r_seg,r_ter,r_qua,r_qui,r_sex,total_aulas
+Qesia,PERSPECTIVA GEOGRAFICA: DESENVOLVIMENTO E ESPACO,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,PERCURSO FILOSOFICO SOBRE A ESPECIE HUMANA ,2i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,PERCURSO FILOSOFICO SOBRE A ESPECIE HUMANA ,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,ESTUDO ORIENTADO,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,3i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,2i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Qesia,GEOGRAFIA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,27
+Todos,ELETIVA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,LINGUA PORTUGUESA,1i01 EM-IPI,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,ESTUDO ORIENTADO,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,LINGUA PORTUGUESA,2i01 EM-ADM,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,LINGUA PORTUGUESA,2i01 EM-HUM,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Thaylon,MATEMATICA,1i03 EM-HUM,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,2i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,LINGUA PORTUGUESA,2i02 EM-IPI,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,3i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,LINGUA PORTUGUESA,2i01 EM-IPI,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,2i01 EM-IPI,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Thaylon,MATEMATICA,1i01 EM-IPI,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Thaylon,MATEMATICA,1i02 EM-HUM,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Todos,ELETIVA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Thaylon,MATEMATICA,2i01 EM-ADM,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Derlane,REDACAO,3i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,2i01 EM-HUM,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Thaylon,MATEMATICA,1i01 EM-HUM,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,2i02 EM-IPI,Intermediario,4,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,3i01 EM-ADM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,3i01 EM-IPI,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Alex,MATEMATICA,3i02 EM-ADM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,24
+Nilza,HISTORIA,2i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,3i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,A ESPECIE HUMANA E A RELACAO COM OS RECURSOS NATURAIS,2i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,A ESPECIE HUMANA E A RELACAO COM OS RECURSOS NATURAIS,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,HISTORIA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,TRAJETORIAS HUMANAS NA HISTORIA,2i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,PROJETO DE VIDA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,PROJETO DE VIDA,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,PROJETO DE VIDA,3i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,PROJETO DE VIDA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,PRATICAS EXPERIMENTAIS CN,3i01 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,PRATICAS EXPERIMENTAIS CN,2i02 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,PRATICAS EXPERIMENTAIS CN,2i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,PRATICAS EXPERIMENTAIS CN,2i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,PRATICAS EXPERIMENTAIS CN,1i02 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,PRATICAS EXPERIMENTAIS CN,1i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,MARKETING ORGANIZACIONAL,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,2i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,IOT - INTERNET OF THINGS,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,IOT - INTERNET OF THINGS,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Nilza,TRAJETORIAS HUMANAS NA HISTORIA,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,1i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,EDUCACAO FISICA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,EDUCACAO FISICA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,APLICATIVOS WEB,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,APLICATIVOS WEB,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,2i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,3i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,CULTURA DIGITAL,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,CULTURA DIGITAL,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,CULTURA DIGITAL,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Katia,BIOLOGIA,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,COMUNICACAO E BRANDING,3i02 EM-ADM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,EDUCACAO FISICA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,EDUCACAO FISICA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Pedro,COMUNICACAO E BRANDING,3i01 EM-ADM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,3i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,2i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Islani,FISICA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,2i02 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,3i01 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,2i01 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Layla,ESTUDO ORIENTADO,3i02 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,22
+Fagner,PROJETOS INTEGRADORES - MATEMATICA,1i03 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - MATEMATICA,2i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - MATEMATICA,3i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,QUIMICA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,QUIMICA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,QUIMICA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PRATICAS EXPERIMENTAIS CN,1i03 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,QUIMICA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PRATICAS EXPERIMENTAIS CN,1i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - C. DA NATUREZA,3i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PRATICAS EXPERIMENTAIS CN,2i01 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,2i01 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,2i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,2i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,2i02 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - MATEMATICA,1i02 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - MATEMATICA,1i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - C. DA NATUREZA,1i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - C. DA NATUREZA,1i02 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - C. DA NATUREZA,1i03 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Fagner,PROJETOS INTEGRADORES - C. DA NATUREZA,2i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,PROJETO DE VIDA,1i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,LiNGUA INGLESA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,LiNGUA INGLESA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,ESTUDO ORIENTADO,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,LiNGUA INGLESA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Ana Paula,LiNGUA INGLESA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,21
+Maianni,SOCIOLOGIA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,PROJETOS INTEGRADORES - C. HUMANAS,3i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,SOCIOLOGIA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,PROJETOS INTEGRADORES - C. HUMANAS,2i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,PROJETOS INTEGRADORES - C. HUMANAS,1i03 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,PROJETOS INTEGRADORES - C. HUMANAS,1i02 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,PROJETOS INTEGRADORES - C. HUMANAS,1i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,SOCIOLOGIA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,INDIVIDUO NATUREZA E SOCIEDADE,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Maianni,SOCIOLOGIA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,16
+Celia,LINGUA PORTUGUESA,1i02 EM-HUM,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,15
+Celia,LINGUA PORTUGUESA,1i03 EM-HUM,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,15
+Celia,LINGUA PORTUGUESA,1i01 EM-HUM,Intermediario,5,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,15
+Luzimar,ARTE,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,ARTE,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,ARTE,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,PROJETOS INTEGRADORES - LINGUAGENS,1i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,ARTE,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,PROJETOS INTEGRADORES - LINGUAGENS,1i02 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,PROJETOS INTEGRADORES - LINGUAGENS,1i03 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,PROJETOS INTEGRADORES - LINGUAGENS,2i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Luzimar,PROJETOS INTEGRADORES - LINGUAGENS,3i01 EM-HUM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,13
+Miqueias,ADMINISTRACAO FINANCEIRA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Miqueias,ROTINAS ADMINISTRATIVAS,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Daianny,LINGUA PORTUGUESA,3i01 EM-ADM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Daianny,LINGUA PORTUGUESA,3i01 EM-HUM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Miqueias,GESTAO PUBLICA,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Miqueias,ECONOMIA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Miqueias,ADMINISTRACAO FINANCEIRA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Daianny,LINGUA PORTUGUESA,3i02 EM-ADM,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Miqueias,GESTAO PUBLICA,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Daianny,LINGUA PORTUGUESA,3i01 EM-IPI,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,12
+Messias,LINGUAGEM DE PROGRAMACAO APLICADA A WEB,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Messias,LINGUAGEM DE PROGRAMACAO APLICADA A WEB,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Isaias,QUIMICA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Isaias,QUIMICA,2i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Isaias,QUIMICA,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Messias,ANALISE E PROJETO DE SISTEMAS,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Isaias,PRATICAS EXPERIMENTAIS CN,3i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Isaias,PRATICAS EXPERIMENTAIS CN,3i02 EM-ADM,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Isaias,QUIMICA,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Messias,SISTEMAS OPERACIONAIS,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Messias,PROGRAMACAO PARA WEB DESIGN,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,10
+Vania,BANCO DE DADOS,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,9
+Vania,DESENVOLVIMENTO DE GAMES,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,9
+Vania,BANCO DE DADOS,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,9
+Vania,ALGORITMO E LOGICA DE PROGRAMCAO,1i01 EM-IPI,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,9
+Sergio,FILOSOFIA,1i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Sergio,FILOSOFIA,1i02 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Renata,GESTAO DE PRODUCAO E QUAL.IDADE,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Sergio,FILOSOFIA,1i03 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Sergio,FILOSOFIA,1i01 EM-HUM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Renata,PLANEJAMENTO E INVESTIMENTOS,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Renata,GESTAO DE PRODUCAO E QUAL.IDADE,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Renata,PLANEJAMENTO E INVESTIMENTOS,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,8
+Devilson,ARQUITETURA. SEGURANCA E PROJETOS DE REDE,3i01 EM-IPI,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,7
+Devilson,INTRODUCAO A REDE DE COMPUTADORES E PROTOCOLOS,2i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,7
+Devilson,INTRODUCAO A REDE DE COMPUTADORES E PROTOCOLOS,2i02 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,7
+Maikon,PROJETOS EMPREENDEDORES,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,6
+Maikon,PROJETOS EMPREENDEDORES,3i01 EM-IPI,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,6
+Maikon,PROJETOS EMPREENDEDORES,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,6
+Alex Nasc,LINGUAGEM DE PROGRAMACAO ORIENTADA A OBJETOS,3i01 EM-IPI,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,6
+Alex Nasc,DESENVOLVIMENTO DE SISTEMAS,3i01 EM-IPI,Intermediario,3,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,6
+Huly,E-COMMERCE,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,4
+Weverton,DIREITO EMPRESARIAL E TRIBUTARIO,3i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,4
+Weverton,DIREITO EMPRESARIAL E TRIBUTARIO,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,4
+Huly,E-COMMERCE,3i02 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,4
+Savio,HIGIENE SAUDE E SEGURANCA,1i01 EM-IPI,Intermediario,1,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,3
+Savio,LOGISTICA,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,3
+Marcos,COOPERATIVISMO,2i01 EM-ADM,Intermediario,2,7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,1;2;3;4;5;6;7,nenhuma,nenhuma,nenhuma,nenhuma,nenhuma,2

@@ -1,0 +1,16 @@
+professor,disciplina,turma,tipo,limite_duas_aulas,geminadas,dias,horas
+,ELETIVA,,SIM,SIM,SIM,seg,"4,5"
+Alex,MATEMATICA,,SIM,SIM,SIM,,
+Katia,BIOLOGIA,,SIM,SIM,SIM,,
+Celia,LINGUA PORTUGUESA,,SIM,SIM,SIM,,
+Daianny,LINGUA PORTUGUESA,,SIM,SIM,SIM,,
+Derlane,LINGUA PORTUGUESA,,SIM,SIM,NÃO,,
+Thaylon,MATEMATICA,,SIM,SIM,NÃO,,
+Qesia,,,SIM,SIM,NÃO,,
+Nilza,,,SIM,SIM,NÃO,,
+,HISTORIA,,SIM,NÃO,NÃO,,
+,GEOGRAFIA,,SIM,NÃO,NÃO,,
+Maianni,,,SIM,SIM,NÃO,,
+Sergio,,,SIM,SIM,NÃO,,
+,SOCIOLOGIA,,SIM,NÃO,NÃO,,
+,FILOSOFIA,,SIM,NÃO,NÃO,,
